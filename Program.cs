@@ -23,7 +23,8 @@ namespace AreaTrianguloRet
             Console.ResetColor();
 
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"A Área do Triangulo é: {Area = Base * Altura / 2} (cm²)");
+            Console.WriteLine($"A Área do Triangulo é: {Base * Altura / 2} (cm²)");
+            
             Console.Write("\n");
             Console.ResetColor();
 
